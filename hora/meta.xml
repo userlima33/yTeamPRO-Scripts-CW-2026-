@@ -1,0 +1,5 @@
+<meta>
+	<info author="Custom" type="script" name="hora" description="Comando /hora para ajustar o horario do jogo localmente" />
+	<script src="server.lua" type="server" cache="false" />
+	<script src="client.lua" type="client" cache="false" />
+</meta>

@@ -1,0 +1,5 @@
+addEvent("hora:requestServerTime", true)
+addEventHandler("hora:requestServerTime", root, function()
+    local h, m = getTime()
+    triggerClientEvent(client, "hora:receiveServerTime", client, h, m)
+end)

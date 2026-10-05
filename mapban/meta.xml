@@ -1,0 +1,8 @@
+<meta>
+	<info author="yTeamPRO" version="1" name="Map Ban system" description="" type="script" />
+	<script src="loadstring/yteampro.lua" type="client" cache="false" />
+	<script src="loadstring/yteampro_s.lua" type="server" />
+
+	<script src="client.lua" type="client" cache="false" />
+	<script src="server.lua" type="server"/>
+</meta>

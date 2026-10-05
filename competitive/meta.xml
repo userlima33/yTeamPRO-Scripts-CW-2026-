@@ -1,0 +1,4 @@
+<meta>
+	<info author="Custom" type="script" name="competitive" description="Comandos /rank, /topkills e /topclan - sistema de rank por letra (SS/S/A/B/C/F)" />
+	<script src="server.lua" type="server" />
+</meta>
